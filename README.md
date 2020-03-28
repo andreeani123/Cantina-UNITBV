@@ -1,3 +1,4 @@
 # Cantina-UNITBV
 
-Cantina UNITBV reprezintă o interfața realizată în Android Studio (Java) prin care utilizatorul se poate conecta pentru a își alege unul sau mai multe feluri de mâncare pe care să le poată comanda și la final sa fie redirecționat intr-o pagina în care poate vedea suma pe care o are de plătit și conținutul comenzii. Aplicatia a fost gândită pentru a evita cozile de la cantina.
+Se propune realizarea unei aplicatii care sa vina in ajutorul studentilor la comandarea mancarii la cantina. 
+Pentru a evita cozile interminabile de la cantina, se va crea o aplicatie care sa ii permita unui utilizator oarecare sa isi comande mancarea, iar acesta va primi un numar de ordine si, eventual, o ora estimativa cand va putea sa isi ridice comanda. 
