@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717640100107",
+    "project_id": "cantina-unitbv",
+    "storage_bucket": "cantina-unitbv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717640100107:android:6a168cc3b2903496901a0e",
+        "android_client_info": {
+          "package_name": "com.example.cantinaunitbv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717640100107-aoaachh1r6fkft9h0a1dd9c1e248i3q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXM8BieW2glVSYyKGWhdpS79eAo89_5Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717640100107-aoaachh1r6fkft9h0a1dd9c1e248i3q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
